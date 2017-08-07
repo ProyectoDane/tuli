@@ -1,0 +1,10 @@
+*.iml
+.gradle
+TuliEmociones/local.properties
+TuliEmociones/.idea/workspace.xml
+TuliEmociones/.idea/libraries
+.DS_Store
+TuliEmociones/build
+TuliEmociones/captures
+.externalNativeBuild
+TuliEmociones/app/build
